@@ -1,7 +1,7 @@
 # Laser-Turret
 
 ## Description
-Arduino based, joystick controlled laser "turret". Also, with and LCD display tracking temperature of the laser diode and position (in degrees)
+It's basically a joystick controlled laser pointer with some basic features. On one of the walls there's an LCD screen that's displaying laser's current position in degrees and diode temperature. Laser is rotated through two connected servos, moving in either X or Y axis. Temperature is measured with a thermistor. Also, on the side, there's a potentiometer, which is used to control movement speed. Everything is managed by an Arduino Nano microcontroller.
 
 ## Video demonstration
 - https://youtu.be/r2ZQI_Ria-U
